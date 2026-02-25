@@ -1,0 +1,26 @@
+Bash Command 
+
+pwd  --> display the path 
+ls ---> list of the files available 
+
+
+
+Git command
+Git init. --> new initiation
+git add . --> Add all files
+git status --> verify the added files
+git rm --cached .DS_Store  --> remove from git storing command
+git rm --cached -f .DS_Store --> force remove 
+git commit -m "Initial bootcamp setup with first Python file"
+git branch -M main --> switch to main branch
+git remote add origin https://github.com/Anandpnp/AI-Engineer-Bootcamp.git  --> add it remote origin
+git push -u origin main   --> push the code 
+
+Short cut commands
+
+1. Open file enter and save
+
+Press Control + O  
+Press Enter
+Press Control + X
+
